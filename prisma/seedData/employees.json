@@ -1,0 +1,32 @@
+[
+  {
+    "nama": "Verrill Zain Syafiq",
+    "jabatan": "STAFF",
+    "tanggalMasuk": "2026-01-01",
+    "statusAktif": true
+  },
+  {
+    "nama": "Budi",
+    "jabatan": "STAFF",
+    "tanggalMasuk": "2023-01-10",
+    "statusAktif": true
+  },
+  {
+    "nama": "Andri",
+    "jabatan": "ADMIN",
+    "tanggalMasuk": "2023-06-20",
+    "statusAktif": true
+  },
+  {
+    "nama": "Willy",
+    "jabatan": "STAFF",
+    "tanggalMasuk": "2021-11-05",
+    "statusAktif": false
+  },
+  {
+    "nama": "Yusuf",
+    "jabatan": "MANAGER",
+    "tanggalMasuk": "2024-01-02",
+    "statusAktif": true
+  }
+]
